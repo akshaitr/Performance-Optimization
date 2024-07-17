@@ -27,3 +27,26 @@ Performance Optimization and Design Pattern Topics for Frontend Interviews
 
   ### References
   - [How to Use React Dev Tools – With Example Code and Videos](https://www.freecodecamp.org/news/how-to-use-react-dev-tools)
+
+## Client side Rendering vs Server Side Rendering
+
+- Client side rendering is ideal for applications that require rich interaction after initial load such as Single Page Applications(SPA) where SEO is not a primary concern
+- Server side rendering is best for content-heavy sites where SEO and fast initial load times are crucial, such as ecommerce and news websites
+  
+    ### Client side rendering
+  
+    - Rich interactions
+    - Reduced server load
+    - Better client side caching
+    - Slower initial load
+    - Bad for SEO
+    - Dependency on user's device
+    
+    ### Server side rendering
+  
+    - Faster initial page load
+    - Better SEO
+    - Consistent performance
+    - Increased load on the server
+    - Frequent server requests can increase latency
+    - More complex to implement
