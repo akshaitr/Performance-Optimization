@@ -24,3 +24,6 @@ Performance Optimization and Design Pattern Topics for Frontend Interviews
     - Flame chart, which will show you the component list
     - Ranked chart, which will show you the component list in a ranked manner
     - Record why each component rendered while profiling
+
+  ### References
+  - [How to Use React Dev Tools – With Example Code and Videos](https://www.freecodecamp.org/news/how-to-use-react-dev-tools)
