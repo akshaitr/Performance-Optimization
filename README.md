@@ -1,4 +1,4 @@
-# Performance-Optimization
+# React Performance Optimization
 Performance Optimization and Design Pattern Topics for Frontend Interviews
 
 ## React Dev Tools
@@ -50,3 +50,17 @@ Performance Optimization and Design Pattern Topics for Frontend Interviews
     - Increased load on the server
     - Frequent server requests can increase latency
     - More complex to implement
+
+## Code Splitting
+
+## Error Boundaries
+
+- [react-error-boundary](https://www.npmjs.com/package/react-error-boundary)
+
+## Web Vitals
+
+- [Web vitals](https://web.dev/articles/vitals)
+
+## Virtualization
+
+-  [react-window](https://www.npmjs.com/package/react-window)
