@@ -64,3 +64,29 @@ Performance Optimization and Design Pattern Topics for Frontend Interviews
 ## Virtualization
 
 -  [react-window](https://www.npmjs.com/package/react-window)
+
+## Web Accessibility (A11y)
+
+- Semantic HTML elements
+- Lighthouse, Accessibility tree in Chrome dev tools
+- Add alt texts for images (not necessary for decorative image)
+- Contrast
+  - [Contrast checker](https://webaim.org/resources/contrastchecker/)
+- Label for input tags
+- ARIA tags (Avoid as much as possible)
+- Make the website keyboard friendly
+
+## HOC Pattern
+
+- Authentication
+- Custom hooks vs HOC
+
+## Module Pattern
+
+- The module pattern is a design pattern in JavaScript that allows you to organize your code into encapsulated modules with private and public methods and properties
+
+## Render Props
+
+- Render props is a pattern in React where a component’s logic is encapsulated in a prop that the component calls to render its output
+
+
